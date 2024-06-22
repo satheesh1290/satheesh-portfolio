@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Cloud Kitchen",
+    "imageSrc": "projects/cloudkitchen.png",
+    "description": "This is a project made to learn Angular by building an app.",
+    "skills": ["Angular", "Firebase"],
+    "demo": "HTTPS://CLOUD-KITCHEN-5FD93.WEB.APP/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "static Website",
+    "imageSrc": "projects/staticwebsite.png",
+    "description": "This is a project made to learn HTML, CSS, Javascript, Express, Node by building an app.",
+    "skills": ["HTML", "CSS", "Express", "Node", "JavaScript"],
+    "demo": "https://static-website-5x81.onrender.com/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CoinToss",
+    "imageSrc": "projects/cointoss.png",
+    "description": "This is a project made to learn Javascript.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://satheesh1290.github.io/coinToss/",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Fullstack Degree Course and Internship",
+    "organisation": "Intellipaat",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Developed a dynamic website",
+      "Cloud Kitchen using Angular"
+    ],
+    "imageSrc": "history/intellipaat.png"
+  },
+  {
+    "role": "Senior Title Examiner",
+    "organisation": "SitusAMC",
+    "startDate": "Mar, 2022",
+    "endDate": "Apr, 2023",
+    "experiences": ["Worked for California state", "Full search Title"],
+    "imageSrc": "history/situsamc.png"
+  },
+  {
+    "role": "Senior Analyst",
+    "organisation": "Fidelity National",
+    "startDate": "Mar, 2020",
+    "endDate": "Feb, 2022",
+    "experiences": ["Worked for Minnesota state", "current owner search"],
+    "imageSrc": "history/fnf.png"
+  },
+  {
+    "role": "Subject Matter Expert",
+    "organisation": "First American India",
+    "startDate": "Oct, 2012",
+    "endDate": "Aug, 2019",
+    "experiences": ["Worked for California state", "Full search Title"],
+    "imageSrc": "history/fai.png"
+  }
+]
