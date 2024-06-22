@@ -142,4 +142,7 @@
   .content {
     align-items: center;
   }
+  .title {
+    font-size: 48px;
+  }
 }
